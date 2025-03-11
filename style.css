@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(53, 180, 180);
+  }
+
+  *{text-align: center;
+    font-family: sans-serif;
+    color: aliceblue;}
+  
+  ul,
+  ol {
+      list-style-type: none;
+      padding-left: 0%
+    }  
+ol img {;
+          height: 1em;}
+
+footer {font-size: 2rem;
+  color:rgb(229, 69, 122); 
+  padding: 10px;
+  background-color: palevioletred;
+}
+footer :hover{color:rgb(53, 180, 180);}
+footer a{text-decoration: none;}
+
+h2 {text-decoration: underline;
+  color: rgb(229, 69, 122);
+}
+
+.foto-motivace {border-radius: 20px;
+}
+
+h1{background-color: palevioletred;
+  padding: 2em;
+  margin: 10px;
+}
